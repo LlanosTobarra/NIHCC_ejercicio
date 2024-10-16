@@ -1,0 +1,3 @@
+Este conjunto de datos completo puede encontrarse en el siguiente enlace: https://nihcc.app.box.com/v/ChestXray-NIHCC. Dicho conjunto de datos contiene una serie de radiografías junto con el diagnostico asociado. Se trata de un conjunto de datos muy grande de varios gigabytes, sin embargo para este trabajo utilizaremos sólo una subselección, con el fin de garantizar los tiempos de ejecución. La referencia bibliografica asociada a este conjunto de datos es la siguiente:
+
+Xiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, Mohammadhadi Bagheri, Ronald M. Summers. ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly- Supervised Classification and Localization of Common Thorax Diseases, IEEE CVPR, pp. 3462-3471,2017
